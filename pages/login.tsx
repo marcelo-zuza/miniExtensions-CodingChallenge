@@ -67,6 +67,9 @@ const LoginPage: NextPage = () => {
                     <h2 className="mt-6 text-3xl font-extrabold text-center text-gray-900">
                         Sign in to your account
                     </h2>
+                    <h2 className="text-2xl text-center text-gray-900">
+                        by <a className='hover:underline' href="https://www.linkedin.com/in/marcelo-zuza/" target="_blank" rel="noopener noreferrer">Marcelo Zuza</a>
+                    </h2>
                 </div>
 
                 <div className="max-w-xl w-full rounded overflow-hidden shadow-lg py-2 px-4">
